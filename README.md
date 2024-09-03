@@ -1,4 +1,4 @@
-# A/B Testing of Website Themes Using RMarkdown
+# A/B Testing of Website Themes Using RStudio
 
 ## Introduction
 A/B testing is a method used to compare and evaluate different marketing strategies, designs, or themes. The primary purpose is to make informed decisions based on data to enhance user experience and improve performance metrics. In this project, the aim is to test two themes (Light and Dark) to determine which one looks better on the website.
